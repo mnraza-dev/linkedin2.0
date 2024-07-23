@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Feed = () => {
+const Feed = ({user}:{user:any}) => {
   return (
     <div>Feed</div>
   )
